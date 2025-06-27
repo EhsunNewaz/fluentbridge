@@ -1,6 +1,8 @@
 # FluentBridge - Bengali-First IELTS Learning Platform
 
-🌉 **Bengali-first English learning LMS designed specifically for IELTS preparation in Bangladesh**
+🌉 **"Bridge to English Excellence" - ইংরেজি শেখার সহজ সেতু**
+
+*Bengali-first English learning LMS designed specifically for IELTS preparation in Bangladesh*
 
 ## 🎯 Project Overview
 
@@ -9,10 +11,11 @@ FluentBridge is a comprehensive learning management system that addresses the un
 ### 🚀 Key Features
 - **Phonics Foundation**: Mandatory Track 0 addressing sound mapping from Bengali to English
 - **6-Part Assessment System**: Comprehensive skill evaluation with Bengali hints
-- **Bengali-First Methodology**: Native language explanations, not just interface translation
+- **Bengali-First Methodology**: Honor → Build → Guide approach with cultural sensitivity
+- **Bridge-Inspired Learning**: UI and content designed around connection metaphors
 - **Community Learning**: Study groups and speaking partner matching
 - **Mock Testing**: Integrated practice tests with culturally relevant content
-- **Mobile-First PWA**: Optimized for Bangladesh's mobile-centric market
+- **Mobile-First PWA**: Optimized for Bangladesh's mobile-centric market with 8px rounded design
 
 ## 🛠️ Tech Stack
 
@@ -38,13 +41,33 @@ fluentbridge/
 └── README.md
 ```
 
-## 🎨 Brand Colors
+## 🎨 Brand Identity
 
-- **Bridge Blue**: `#3B82F6` - Primary navigation, trust
-- **Growth Green**: `#22C55E` - Progress, success indicators  
-- **Warm Gold**: `#F59E0B` - Achievements, celebrations
-- **Bengal Green**: `#059669` - Cultural connection
-- **Calm Gray**: `#64748B` - Content, professional elements
+### **Core Brand Promise**
+"Bridge to English Excellence" - *ইংরেজি শেখার সহজ সেতু*
+
+### **Color Palette**
+**Primary Colors:**
+- **Bridge Blue**: `#3B82F6` - Primary navigation, trust, learning
+- **Growth Green**: `#22C55E` - Progress indicators, success states
+- **Warm Gold**: `#F59E0B` - Achievements, celebrations, CTAs
+- **Neutral Gray**: `#64748B` - Content, professional elements
+
+**Supporting Colors:**
+- **Light Blue**: `#DBEAFE` - Backgrounds, subtle highlights  
+- **Light Green**: `#DCFCE7` - Success states, gentle progress
+- **Light Gold**: `#FEF3C7` - Achievement celebrations
+- **Bengal Green**: `#059669` - Cultural pride, local connection
+
+### **Typography**
+- **English**: Inter (modern, readable, professional)
+- **Bengali**: Kalpurush, SolaimanLipi (cultural authenticity)
+
+### **Design Principles**
+- **Bridge-Inspired**: UI elements reflect connection and flow
+- **Bengali-First**: Cultural sensitivity in every interaction
+- **Encouragement-First**: Celebrate attempts before corrections
+- **Mobile-Optimized**: 8px rounded corners, gentle animations
 
 ## 📋 Development Status
 
