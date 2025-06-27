@@ -1,1 +1,40 @@
- 
+{
+  "name": "fluentbridge",
+  "version": "0.1.0-dev",
+  "description": "Bengali-first IELTS learning platform for Bangladesh",
+  "private": true,
+  "author": "FluentBridge Team",
+  "license": "MIT",
+  "keywords": [
+    "ielts",
+    "bengali",
+    "learning",
+    "education",
+    "bangladesh",
+    "english",
+    "phonics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/fluentbridge.git"
+  },
+  "scripts": {
+    "install:frontend": "cd frontend && npm install",
+    "dev:frontend": "cd frontend && npm start",
+    "build:frontend": "cd frontend && npm run build",
+    "test:frontend": "cd frontend && npm test",
+    "lint": "cd frontend && npm run lint",
+    "postinstall": "npm run install:frontend"
+  },
+  "workspaces": [
+    "frontend"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
+
